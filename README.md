@@ -62,8 +62,8 @@ Is not required to have some strings like
 But it's very important to have this formatting for other strings
 ```
 <!-- Polar -->
-    <item
-        component="ComponentInfo{com.afollestad.polar/com.afollestad.polar.ui.MainActivity}"
-        drawable="polar" />
+<item
+    component="ComponentInfo{com.afollestad.polar/com.afollestad.polar.ui.MainActivity}"
+    drawable="polar" />
 ```
 
