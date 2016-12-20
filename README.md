@@ -26,7 +26,7 @@ The code is simple and fully commented. I'm not a developer but I did my best. F
 # Note
 
 **Note that this tool won't work with all appfilter.xml files but only with files generated with Polar (from the in-app icon request generator).
-Your appfilter fil has to have this formatting if you want that the tool will work
+Your appfilter file has to have this formatting if you want that the tool will work
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
